@@ -37,7 +37,7 @@ LOCALES = [
         'name': 'Pacifica, CA',
         'zip': 94044,
         'lat': '37.6138',
-	    'lng': '-122.4869',
+	'lng': '-122.4869',
     },
     {
         'name': 'SOMA, SF, CA',
